@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fish Island</title>
+    <link>http://FishIslandElectronics.github.io/</link>
+    <description>Recent content on Fish Island</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://FishIslandElectronics.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liquidpad</title>
+      <link>http://FishIslandElectronics.github.io/post/liquidpad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://FishIslandElectronics.github.io/post/liquidpad/</guid>
+      <description>The Liquidpad is a customizable macropad developed by Alex Symons and Varun Sreedharan. The Liquidpad is based on the popular and powerful Raspberry Pi Pico development board. With the Liquidpad, the user will be able to enhance their computing experience by storing keyboard macros and passwords on the Liquidpad, saving time and increasing productivity. The Liquidpad is currently in the beta prototype stage of it&amp;rsquo;s development. After we finish finalizing and polishing the firmware, board design, case design, and configuration app we hope to release the project on Kickstarter.</description>
+    </item>
+    
+    <item>
+      <title>Who are we?</title>
+      <link>http://FishIslandElectronics.github.io/whoarewe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://FishIslandElectronics.github.io/whoarewe/</guid>
+      <description>Hi! My name is Varun Sreedharan. I’m a student at the University of California Santa Cruz as a Computer Science major. I’m 18 years old, and I enjoy designing things in Fusion 360 and creating things with microcontrollers.
+My name is Alexander Symons, and I’m a Computer Engineering major and Electrical Engineering minor at UC Santa Cruz. I created this website to show off whatever projects I am currently working on, and share what I have learned while making them.</description>
+    </item>
+    
+  </channel>
+</rss>
